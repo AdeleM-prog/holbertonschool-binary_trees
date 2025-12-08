@@ -12,5 +12,5 @@ return (0);
 if (node->right == NULL && node->left == NULL)
 return (1);
 else
-555555555return (0);
+return (0);
 }
